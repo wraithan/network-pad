@@ -1,0 +1,21 @@
+{
+  "name": "network-pad",
+  "version": "0.0.0",
+  "description": "Upload network (and other) info to an etherpad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wraithan/network-pad.git"
+  },
+  "author": "Wraithan (http://wraithan.net/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/wraithan/network-pad/issues"
+  },
+  "dependencies": {
+    "etherpad-lite-client": "~0.7.0"
+  }
+}
